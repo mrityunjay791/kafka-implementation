@@ -9,7 +9,7 @@ Applications now follow microservices architecture. So we have a distributed arc
 The obvious choice to resolve above issue is to use a messaging system. 
 But traditional messaging systems have following drawback:-
 
-	Traditional Messaging System	Apache   |  Kafka
+	Traditional Messaging System			|  Apache Kafka
 	Limited Scalibility					|  Scalable
 	Transient in-memory persistence		|  Messages also stored in replicated log
 	Comparatively lower throughput			|  Comparatively higher throughput
